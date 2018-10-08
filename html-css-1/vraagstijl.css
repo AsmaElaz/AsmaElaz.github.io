@@ -1,0 +1,26 @@
+.vraag {
+color: blue;
+}
+
+.antwoord {
+  color: red;
+  background-color: red;
+  width: 500px;
+}
+
+.antwoord:hover {
+  color: black;
+}
+.kopje {
+  color: blue;
+  text-align: center;
+  font-size: 18px;
+  background-color: #add8e6;
+  border: 2px groove #add8e6;
+}
+.text {
+  border: 5px groove blue;
+  border-radius: 20px 0px 20px 0px;
+  height: 30px;
+  width: 90px;
+}

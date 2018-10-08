@@ -1,0 +1,20 @@
+img {
+  margin-top: 100px;
+}
+ul.lijst {
+ color: black;
+ font-size: 20px;
+ font-variant: normal;
+ font-weight: 500;
+ padding: 5px 1px 10px 20px;
+ width: 280px;
+ list-style-type: square;
+ border: 5px inset blue;
+ background-color: #b0e2ff;
+ }
+ul.lijst li{
+  border-top: 5px inset blue;
+}
+.li{
+  border-bottom: 5px inset blue;
+}
